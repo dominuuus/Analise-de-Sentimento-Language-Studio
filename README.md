@@ -1,6 +1,4 @@
-# Criando um arquivo README.md com o conteúdo formatado
-
-readme_content = """# Análise de Sentimentos com Language Studio no Azure AI  
+# Análise de Sentimentos com Language Studio no Azure AI
 
 ## 📖 Introdução  
 Este projeto é uma aplicação prática do módulo *Service Cloud com IA* da trilha **Decola Tech 2025** da **DIO**. O objetivo foi utilizar o **Language Studio do Azure AI** para realizar uma **análise de sentimentos**.  
